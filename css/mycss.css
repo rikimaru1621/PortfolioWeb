@@ -1,0 +1,58 @@
+/*
+font-family: 'Cabin', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Pangolin', cursive;
+font-family: 'Black Ops One', cursive;
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Bungee', cursive;
+*/
+*{
+    font-family: 'Pangolin', cursive !important;
+}
+body{    
+    color: #ffff00 !important;
+    background-color: #000000 !important;
+}
+
+.contenido{
+    width: 100%;
+}
+.nav-link, .navbar-brand{
+    color: #ffff00 !important;
+} 
+
+.foto{
+    
+    filter: grayscale(100%);
+    border-radius: 25px;  
+    width: 80%;
+}
+.nombre{
+    font-size: 70px;
+    font-family: 'Fredericka the Great', cursive !important;
+    
+}
+
+.descricion{
+    font-size: 30px;
+    font-family: 'Fredericka the Great', cursive !important; 
+text-decoration: underline;
+}
+
+.st-about{
+
+    font-family: 'Fredericka the Great', cursive;
+    
+    font-size: 40px;
+}
+
+.p-about{
+    font-size: 30px;
+    
+}
+
