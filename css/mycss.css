@@ -12,7 +12,7 @@ font-family: 'Fredericka the Great', cursive;
 font-family: 'Bungee', cursive;
 */
 *{
-    font-family: 'Pangolin', cursive !important;
+    font-family: 'Lobster', cursive;
 }
 body{    
     color: #ffff00 !important;
@@ -37,22 +37,79 @@ body{
     font-family: 'Fredericka the Great', cursive !important;
     
 }
+.a-social{    
+    
+    padding: 10px !important;
+    margin: 5px !important;
+}
+
+.icono-social{
+    width: 50px;
+    height: 50px;
+    
+}
 
 .descricion{
     font-size: 30px;
     font-family: 'Fredericka the Great', cursive !important; 
-text-decoration: underline;
+text-decoration: underline; 
+
 }
 
-.st-about{
 
-    font-family: 'Fredericka the Great', cursive;
-    
+
+.st-about{
     font-size: 40px;
 }
 
 .p-about{
     font-size: 30px;
-    
+  
 }
 
+/* Skillls*/
+.cotainet-skill{
+    height: 600px;
+    
+    padding-top: 50px;
+}
+.st-skill{
+  
+    font-size: 60px;
+    margin-bottom: 70px;
+}
+
+.p-skill{
+    font-size: 35px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 25px;
+    background-color:  #ffff00 !important;
+    color: #000000;
+}
+
+/* Proyects*/
+
+.st-proyect{
+    font-size: 40px !important;
+
+}
+
+.bg-black{
+    background-color: #000000 !important;
+
+}
+
+.min-proyect{
+    width: 220px;
+    height: 220px;
+    background-color: #ffff00;
+    color:#000000 !important;
+    margin: 15px;
+    border-radius: 25px;
+   
+}
+.min-proyect >h4{
+  font-size: 25px;
+  margin-top: 75px;
+}
